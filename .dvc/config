@@ -1,0 +1,7 @@
+[core]
+    remote = dagshub
+['remote "dagshub"']
+    url = https://dagshub.com/TiiAyyLuvBear/sentiment-dvc-data.dvc
+    auth = basic
+    user = TiiAyyLuvBear
+    password = 1825c291c45cbf61324ef8e49dfc58c558af5ea1
